@@ -6,7 +6,7 @@
 
 ### رابط الكود (Google Colab)
 
-https://colab.research.google.com/github/cnlabidi-tech/New-folder-4-/blob/main/Lab_3_Simulating_MapReduce_(Log_Analysis_%E2%80%93_Count_Requests_per_Status_Code)_.ipynb
+https://colab.research.google.com/drive/10mImxGtc7-6DxYNG_Omy6LezFcHVb4Ru?usp=sharing
 
 ---
 
