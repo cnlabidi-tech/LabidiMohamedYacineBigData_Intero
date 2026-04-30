@@ -6,7 +6,7 @@
 
 ### رابط الكود (Google Colab)
 
-https://colab.research.google.com/drive/10mImxGtc7-6DxYNG_Omy6LezFcHVb4Ru?usp=sharing
+https://colab.research.google.com/drive/1B7VkPiWUK2QMsHkT2UlZwaIf0tSMByRZ?usp=sharing
 
 ---
 
